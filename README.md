@@ -1,3 +1,3 @@
 # 📐 Geometric shapes : only CSS
 ## 🏫 La Fabrique Numérique's project 
-## 🤝 Collaborator : @MaxNumerique
+## 🤝 Collaborator : [@MaxNumerique](https://github.com/MaxNumerique)
